@@ -1,0 +1,7 @@
+- ayarlar.ini yada tutrc
+- ölüm animasyonlarý
+- ai cok salak
+- tfghq yerine ok tuþlarý ve ctrl
++ (galba)- bazen u ai nin üzerinden geçebiliyor
+- Aiplayer::go düzeltilmeli (shortest path)
+- ses ve müzik (çok ilerde)
